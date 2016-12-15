@@ -1,60 +1,60 @@
 <div class="WordSection1" style="layout-grid:15.6pt">
 
-<span lang="EN-US">1.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span><span lang="EN-US">Sublime Text3</span>ÏÂÔØ£º<span lang="EN-US">http://www.sublimetext.com/3</span>
+<span lang="utf-8">1.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span><span lang="utf-8">Sublime Text3</span>ä¸‹è½½ï¼š<span lang="utf-8">http://www.sublimetext.com/3</span>
 
 <span lang="EN-US">![](azgj.files/image001.jpg)</span>
 
-ÏÂÔØÍê³Éºó£¬½âÑ¹£¬µã»÷<span lang="EN-US">.exe</span>ÎÄ¼ş£¬°´ÕÕ²½Öè°²×°£¬¿É×Ô¶¨Òå°²×°Èí¼şÄ¿Â¼
+ä¸‹è½½å®Œæˆåï¼Œè§£å‹ï¼Œç‚¹å‡»<span lang="EN-US">.exe</span>æ–‡ä»¶ï¼ŒæŒ‰ç…§æ­¥éª¤å®‰è£…ï¼Œå¯è‡ªå®šä¹‰å®‰è£…è½¯ä»¶ç›®å½•<br/>
 
-<span lang="EN-US">2.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span>ÏÂÔØ°²×°<span lang="EN-US">Package Control</span>²å¼ş<span lang="EN-US">  https://packagecontrol.io/installation</span>
+<span lang="EN-US">2.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span>ä¸‹è½½å®‰è£…<span lang="EN-US">Package Control</span>æ’ä»¶<span lang="EN-US">  https://packagecontrol.io/installation</span>
 
 <span lang="EN-US">![](azgj.files/image002.jpg)</span>
 
-ÏÂÔØÍê³Éºó£¬´ò¿ª<span lang="EN-US">Sublime Text3,</span>Ñ¡Ôñ<span lang="EN-US">Preferences/Browe Packages..,</span>´ò¿ªÎÄ¼ş¼Ğ£¬È»ºó°ÑÏÂÔØµÄ<span lang="EN-US">Package Control</span>·ÅÔÚ<span lang="EN-US">Sublime Text3/Installed Packages</span>ÎÄ¼ş¼ĞÏÂ£¬È»ºó´ò¿ª<span lang="EN-US">Sublime Text3</span>£¬ÔÚ±à¼­ÇøÓò°´<span lang="EN-US">Ctrl+Shift+P,</span>³öÏÖÈçÍ¼£º<span lang="EN-US">![](azgj.files/image003.jpg)</span>ÔÚÊäÈë¿òÖĞÊäÈë<span lang="EN-US">pcip</span>£¬»Ø³µ£¬ÈçÍ¼£º<span lang="EN-US">![](azgj.files/image004.jpg)</span>°²×°Íê³É£¬ÖØĞÂÆô¶¯<span lang="EN-US">Sublime Text3,</span>³É¹¦°²×°ºÃ<span lang="EN-US">Package Control</span>²å¼ş
+ä¸‹è½½å®Œæˆåï¼Œæ‰“å¼€<span lang="EN-US">Sublime Text3,</span>é€‰æ‹©<span lang="EN-US">Preferences/Browe Packages..,</span>æ‰“å¼€æ–‡ä»¶å¤¹ï¼Œç„¶åæŠŠä¸‹è½½çš„<span lang="EN-US">Package Control</span>æ”¾åœ¨<span lang="EN-US">Sublime Text3/Installed Packages</span>æ–‡ä»¶å¤¹ä¸‹ï¼Œç„¶åæ‰“å¼€<span lang="EN-US">Sublime Text3</span>ï¼Œåœ¨ç¼–è¾‘åŒºåŸŸæŒ‰<span lang="EN-US">Ctrl+Shift+P,</span>å‡ºç°å¦‚å›¾ï¼š<span lang="EN-US">![](azgj.files/image003.jpg)</span>åœ¨è¾“å…¥æ¡†ä¸­è¾“å…¥<span lang="EN-US">pcip</span>ï¼Œå›è½¦ï¼Œå¦‚å›¾ï¼š<span lang="EN-US">![](azgj.files/image004.jpg)</span>å®‰è£…å®Œæˆï¼Œé‡æ–°å¯åŠ¨<span lang="EN-US">Sublime Text3,</span>æˆåŠŸå®‰è£…å¥½<span lang="EN-US">Package Control</span>æ’ä»¶<br/>
 
-<span lang="EN-US">3.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span>ÏÂÔØ<span lang="EN-US">APICloud Sublime Text</span>²å¼ş£º<span lang="EN-US">[http://www.apicloud.com/devtools#sublime](http://www.apicloud.com/devtools#sublime)</span>
+<span lang="EN-US">3.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span>ä¸‹è½½<span lang="EN-US">APICloud Sublime Text</span>æ’ä»¶ï¼š<span lang="EN-US">[http://www.apicloud.com/devtools#sublime](http://www.apicloud.com/devtools#sublime)</span>
 
 <span lang="EN-US">![](azgj.files/image005.jpg)</span>
 
-ÏÂÔØ½âÑ¹£¬ÈçÍ¼£º<span lang="EN-US">![](azgj.files/image006.png)</span>
+ä¸‹è½½è§£å‹ï¼Œå¦‚å›¾ï¼š<span lang="EN-US">![](azgj.files/image006.png)</span>
 
-°ÑÕâĞ©ÎÄ¼ş¼Ğ¸´ÖÆµ½<span lang="EN-US">Sublime Text3/Packages</span>ÎÄ¼ş¼ĞÏÂ
+æŠŠè¿™äº›æ–‡ä»¶å¤¹å¤åˆ¶åˆ°<span lang="EN-US">Sublime Text3/Packages</span>æ–‡ä»¶å¤¹ä¸‹
 
-²âÊÔ<span lang="EN-US">apicloud</span>²å¼ş£º
+æµ‹è¯•<span lang="EN-US">apicloud</span>æ’ä»¶ï¼š
 
-ÔÚ<span lang="EN-US">Sublime Text3</span>´´½¨Ò»¸ö<span lang="EN-US">test.js</span>ÎÄ¼ş£¬ÈçÍ¼£º<span style="font-size:12.0pt;font-family:ËÎÌå" lang="EN-US">![](azgj.files/image007.png)</span>
+åœ¨<span lang="EN-US">Sublime Text3</span>åˆ›å»ºä¸€ä¸ª<span lang="EN-US">test.js</span>æ–‡ä»¶ï¼Œå¦‚å›¾ï¼š<span style="font-size:12.0pt;font-family:å®‹ä½“" lang="EN-US">![](azgj.files/image007.png)</span>
 
-ÊäÈë<span lang="EN-US">api</span>£¬ÎÒÃÇ½«»á¿´µ½±à¼­Çø³öÏÖÓĞ¹Ø<span lang="EN-US">APICloud</span>µÄ<span lang="EN-US">api</span>Ïà¹ØÃüÁî£¬
-
-<span lang="EN-US">4.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span>ÏÂÔØ<span lang="EN-US">svn,</span>Í¨¹ı<span lang="EN-US">svn</span>ÉÏ´«ºÍÏÂÔØÎÒÃÇ±àĞ´µÄ´úÂë<span lang="EN-US">  [https://tortoisesvn.net/downloads.html](https://tortoisesvn.net/downloads.html)</span>
+è¾“å…¥<span lang="EN-US">api</span>ï¼Œæˆ‘ä»¬å°†ä¼šçœ‹åˆ°ç¼–è¾‘åŒºå‡ºç°æœ‰å…³<span lang="EN-US">APICloud</span>çš„<span lang="EN-US">api</span>ç›¸å…³å‘½ä»¤ï¼Œ
+<br/>
+<span lang="EN-US">4.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span>ä¸‹è½½<span lang="EN-US">svn,</span>é€šè¿‡<span lang="EN-US">svn</span>ä¸Šä¼ å’Œä¸‹è½½æˆ‘ä»¬ç¼–å†™çš„ä»£ç <span lang="EN-US">  [https://tortoisesvn.net/downloads.html](https://tortoisesvn.net/downloads.html)</span>
 
 <span lang="EN-US">![](azgj.files/image008.jpg)</span>
 
-ÏÂÔØÍê³Éºó£¬°²×°<span lang="EN-US">SVN</span>
+ä¸‹è½½å®Œæˆåï¼Œå®‰è£…<span lang="EN-US">SVN</span>
 
-<span style="font-size:14.0pt" lang="EN-US">SVN</span><span style="font-size:14.0pt">ÏÂÔØ´úÂë£º</span>
+<span style="font-size:14.0pt" lang="EN-US">SVN</span><span style="font-size:14.0pt">ä¸‹è½½ä»£ç ï¼š</span>
 
-ÏÈ´´½¨Ò»¸öÎÄ¼ş¼Ğ£¬ÕâÀïÆğÃû£º<span lang="EN-US">text</span>£¬´ò¿ªÎÄ¼ş¼Ğ£¬ÓÒ»÷Ñ¡Ôñ<span lang="EN-US">SVN Checkout</span>£¬³öÏÖÈçÍ¼£º<span lang="EN-US">![](azgj.files/image009.jpg)</span>
+å…ˆåˆ›å»ºä¸€ä¸ªæ–‡ä»¶å¤¹ï¼Œè¿™é‡Œèµ·åï¼š<span lang="EN-US">text</span>ï¼Œæ‰“å¼€æ–‡ä»¶å¤¹ï¼Œå³å‡»é€‰æ‹©<span lang="EN-US">SVN Checkout</span>ï¼Œå‡ºç°å¦‚å›¾ï¼š<span lang="EN-US">![](azgj.files/image009.jpg)</span>
 
-ºì¼ıÍ·Ö¸µÄµØ·½ÒªÓëÈçÍ¼£º<span lang="EN-US">![](azgj.files/image010.jpg)</span>Ö¸µÄÂ·¾¶Ò»ÖÂ¡£È»ºóµã»÷<span lang="EN-US">OK</span>£¬ÈçÍ¼£º<span lang="EN-US">![](azgj.files/image011.png)</span>
+çº¢ç®­å¤´æŒ‡çš„åœ°æ–¹è¦ä¸å¦‚å›¾ï¼š<span lang="EN-US">![](azgj.files/image010.jpg)</span>æŒ‡çš„è·¯å¾„ä¸€è‡´ã€‚ç„¶åç‚¹å‡»<span lang="EN-US">OK</span>ï¼Œå¦‚å›¾ï¼š<span lang="EN-US">![](azgj.files/image011.png)</span>
 
-<span lang="EN-US">Username:</span>ÊäÈëÎÒÃÇ×¢²á<span lang="EN-US">APICloud</span>µÄÓÊÏäÕËºÅ£¬ÃÜÂëÊäÈë£º<span style="font-size:12.0pt;
-font-family:ËÎÌå" lang="EN-US">![](azgj.files/image012.png)</span>
+<span lang="EN-US">Username:</span>è¾“å…¥æˆ‘ä»¬æ³¨å†Œ<span lang="EN-US">APICloud</span>çš„é‚®ç®±è´¦å·ï¼Œå¯†ç è¾“å…¥ï¼š<span style="font-size:12.0pt;
+font-family:å®‹ä½“" lang="EN-US">![](azgj.files/image012.png)</span>
 
-¼ıÍ·ËùÖ¸·½Ïò£¬µ¥»÷³öÀ´µÄ·ÖÖ§ÃÜÂë£¬ÕâÑù¾ÍÏÂÔØÁËÎÒÃÇµÄ<span lang="EN-US">APICloud</span>´úÂë
+ç®­å¤´æ‰€æŒ‡æ–¹å‘ï¼Œå•å‡»å‡ºæ¥çš„åˆ†æ”¯å¯†ç ï¼Œè¿™æ ·å°±ä¸‹è½½äº†æˆ‘ä»¬çš„<span lang="EN-US">APICloud</span>ä»£ç 
 
-<span style="font-size:14.0pt" lang="EN-US">SVN</span><span style="font-size:14.0pt">ÉÏ´«´úÂë£º</span>
+<span style="font-size:14.0pt" lang="EN-US">SVN</span><span style="font-size:14.0pt">ä¸Šä¼ ä»£ç ï¼š</span>
 
-´ò¿ªÎÒÃÇÒªÉÏ´«´úÂëµÄÎÄ¼ş¼Ğ£¬ÈçÍ¼<span style="font-size:12.0pt;font-family:ËÎÌå" lang="EN-US">![](azgj.files/image013.png)</span>
+æ‰“å¼€æˆ‘ä»¬è¦ä¸Šä¼ ä»£ç çš„æ–‡ä»¶å¤¹ï¼Œå¦‚å›¾<span style="font-size:12.0pt;font-family:å®‹ä½“" lang="EN-US">![](azgj.files/image013.png)</span>
 
-ÔÚ¿Õ°×ÇøÓòÓÒ»÷£¬Ñ¡Ôñ<span lang="EN-US">SVN Commit...</span>£¬³öÏÖÈçÍ¼<span style="font-size:12.0pt;
-font-family:ËÎÌå" lang="EN-US">![](azgj.files/image014.png)</span>
+åœ¨ç©ºç™½åŒºåŸŸå³å‡»ï¼Œé€‰æ‹©<span lang="EN-US">SVN Commit...</span>ï¼Œå‡ºç°å¦‚å›¾<span style="font-size:12.0pt;
+font-family:å®‹ä½“" lang="EN-US">![](azgj.files/image014.png)</span>
 
-Èç¹ûÎÒÃÇµÚÒ»´ÎÉÏ´«µÄ»°£¬¼ıÍ·ËùÖ¸·½Ïò½«»á°ÑÎÒÃÇËùÓĞµÄÎÄ¼şÉÏ´«£¬µÚ¶ş´ÎĞŞ¸ÄÖ®ºó£¬¾ÍÊÇÉÏÍ¼µÄÑù×Ó£¬ĞŞ¸ÄÄÄ¸öÎÄ¼ş£¬ÏµÍ³¾ÍÄ¬ÈÏÉÏ´«ĞŞ¸ÄµÄÎÄ¼ş£¬È·¶¨ÉÏ´«ÎÄ¼şÎŞÎóºó£¬ÎÒÃÇµã»÷<span lang="EN-US">OK</span>£¬³öÏÖÈçÍ¼£º<span style="font-size:12.0pt;font-family:
-ËÎÌå" lang="EN-US">![](azgj.files/image015.png)</span>
+å¦‚æœæˆ‘ä»¬ç¬¬ä¸€æ¬¡ä¸Šä¼ çš„è¯ï¼Œç®­å¤´æ‰€æŒ‡æ–¹å‘å°†ä¼šæŠŠæˆ‘ä»¬æ‰€æœ‰çš„æ–‡ä»¶ä¸Šä¼ ï¼Œç¬¬äºŒæ¬¡ä¿®æ”¹ä¹‹åï¼Œå°±æ˜¯ä¸Šå›¾çš„æ ·å­ï¼Œä¿®æ”¹å“ªä¸ªæ–‡ä»¶ï¼Œç³»ç»Ÿå°±é»˜è®¤ä¸Šä¼ ä¿®æ”¹çš„æ–‡ä»¶ï¼Œç¡®å®šä¸Šä¼ æ–‡ä»¶æ— è¯¯åï¼Œæˆ‘ä»¬ç‚¹å‡»<span lang="EN-US">OK</span>ï¼Œå‡ºç°å¦‚å›¾ï¼š<span style="font-size:12.0pt;font-family:
+å®‹ä½“" lang="EN-US">![](azgj.files/image015.png)</span>
 
-Ö¤Ã÷ÎÒÃÇÉÏ´«³É¹¦¡£
+è¯æ˜æˆ‘ä»¬ä¸Šä¼ æˆåŠŸã€‚
 
-ÒÔÉÏÊÇ<span lang="EN-US">SVN</span>ÉÏ´«ºÍÏÂÔØ´úÂëÑİÊ¾½ØÍ¼
+ä»¥ä¸Šæ˜¯<span lang="EN-US">SVN</span>ä¸Šä¼ å’Œä¸‹è½½ä»£ç æ¼”ç¤ºæˆªå›¾
 
 </div>

@@ -1,6 +1,6 @@
-# APICloud
+﻿# APICloud
 APICloud基础教程
-视频：略
+视频前言 https://pan.baidu.com/s/1eRHGdcm 
 <h1>学习目标</h1>
 <ul>
 <li>简单了解一下什么是APICloud,APICloud适合干什么</li>
